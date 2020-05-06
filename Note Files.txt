@@ -1,0 +1,13 @@
+link cai driver:
+https://drive.google.com/drive/folders/1J_kX4BEEGViJstf0G8hN4B47R2Vk1Mx9
+Lession 1
+https://youtu.be/FM8gIIIvGhY
+link code
+https://gist.github.com/daominhdam/809a2d2db8edd171b7eac15b2eef0ea1
+
+Lession 2
+Setup Repository
+https://docs.google.com/document/d/1qnuz9pBh3iuneZKcgYuYk70tT4M4ag9QslL1boK0tmY/edit#heading=h.pipjyuvwjrkp
+Xpath/CSS
+https://docs.google.com/document/d/1UaYIlYZMJib3ThkE2KaEhn9J2saOc5kSIhRYrGyNZwo/edit#heading=h.vg4t8lch9n7c
+https://www.youtube.com/watch?v=-9GijXbGJZU&feature=youtu.be
